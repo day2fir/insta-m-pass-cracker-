@@ -95,7 +95,7 @@ Enter the MD5 hash when prompted. The program will attempt to crack the hash by 
 2. **Legal Disclaimer:** This tool is for educational purposes only. Do not use it for unauthorized activities.
 
 ## Contributions
-Pull requests to optimize the code or extend functionality are welcome!
+NOX group and Dayfir !
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
